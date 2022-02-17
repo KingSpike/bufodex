@@ -20,3 +20,10 @@ https://agricola.nal.usda.gov/
 
 https://animaldiversity.org/
 
+https://animals.fandom.com/wiki/Main_Page
+
+https://a-z-animals.com/animals/class/
+
+https://genomics.senescence.info/
+
+https://www.worldwildlife.org/pages/wildfinder-database
